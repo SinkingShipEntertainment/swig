@@ -217,6 +217,6 @@ Examples/r/*/.RData
 Examples/test-suite/scilab/*/
 loader.sce
 
-# REZ
+# SSE
 _rez_build
 .vscode
